@@ -3,7 +3,7 @@
 * Reference link: https://docs.groovy-lang.org/docs/next/html/documentation/template-engines.html#_simpletemplateengine
 
 ## Repository
-* Link: [Groovy Template Resolver(Latest version)](https://github.com/vivek9237/groovy-simple-template-resolver/archive/refs/heads/main.zip)
+* Link: [Groovy Template Resolver (Latest version)](https://github.com/vivek9237/groovy-simple-template-resolver/archive/refs/heads/main.zip)
 
 ## Prerequisites
 * Before using this utility, ensure you have Groovy installed and added to PATH: https://groovy.apache.org/download.html
