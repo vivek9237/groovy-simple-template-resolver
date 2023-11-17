@@ -1,0 +1,3 @@
+[
+    "{\r\n  \"sn\": \"${user.lastname}\",\r\n  \"manager\": \"${managerAccount.accountID}\",\r\n  \"title\": \"${user.title}\",\r\n  \"department\": \"${user.departmentname}\",\r\n  \"displayname\": \"${user.displayname}\",\r\n  \"employeeID\": \"${user.employeeid}\",\r\n  \"employeenumber\": \"1\",\r\n  \"employeetype\": \"${user.employeeType}\",\r\n  \"moveUsertoOU\": \"OU=CloudUsers,DC=abccompany,DC=com\"\r\n}"
+]
