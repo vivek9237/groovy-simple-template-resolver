@@ -9,7 +9,7 @@
 * Before using this utility, ensure you have Groovy installed and added to PATH: https://groovy.apache.org/download.html
 
 ## How to Use
-* Run the utility by executing src/launch.bat
+* Run the utility by executing "src/launch (windows).bat" on a Windows machine or "src/launch (unix or mac).sh" on a Mac or Unix machine.
 * Enter your groovy script on the left input text area
 * Click on the "Resolve" button
 * The resolved Groovy script will be displayed in the right display text area.
